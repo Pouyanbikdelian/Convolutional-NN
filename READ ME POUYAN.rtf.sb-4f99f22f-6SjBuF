@@ -18,7 +18,8 @@ Second file named as \'93For local\'94 adapted to be run in local drive. \
 \
 
 \
-Download Cat files via ; !wget https://drive.switch.ch/index.php/s/XSnhQDNar7y46oQ/download -O data.zip
+Download Cat files via ; 
+!wget https://drive.switch.ch/index.php/s/XSnhQDNar7y46oQ/download -O data.zip
 !unzip -qq -o data.zip -d ./data
 \
 
